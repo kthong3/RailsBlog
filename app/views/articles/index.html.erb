@@ -1,3 +1,5 @@
 <%= link_to "Home", articles_path %> | <%= link_to "Post New Article", new_article_path %>
 
-<%= render(@articles) || "there are no articles available." %>
+<p>
+  <%= render(@articles) || "there are no articles available." %>
+</p>
