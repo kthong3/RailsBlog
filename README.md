@@ -1,24 +1,14 @@
-# README
+##Rails Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Simple CRUD app to create, edit, or delete articles
+- View own or other articles
+- Uses Devise gem for authenication/authorization
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### upcoming features
+- showing edit/update features to only article authors
+- create user profiles
+- comments for posts
+- adding ability favorite posts and comments
+- add Admin features
+- host on heroku
