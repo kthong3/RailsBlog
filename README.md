@@ -27,22 +27,22 @@ Must have on your machine:
 - Visit `http://localhost:3000`
 
 ## Testing
-- Added Rspec
+- Added testing for Article and User models
 
 ## Challenges
 - Devise gem is particular about how User model is used so I had to find examples and look at the documentation a few times to customize the User model to have the `name` and `admin` fields.
 
 ### Next Steps
-- add testing for articles and users
-- refactor current code and clean up views
-- add flexbox to show grid view of articles
+- add tests for signing up, logging in, and signing out
 - add draft or publish features to articles
 - show features to only authors
+- add flagging and favorite for articles
 - create user profiles
 - add comments for articles
-- add flagging and favorite for articles
 - add favoriting for comments
 - add hashtag feature to make articles searchable
+- refactor current code and clean up views
+- add flexbox to show grid view of articles
 - host on heroku
 
 ## References
