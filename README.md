@@ -50,4 +50,5 @@ Must have on your machine:
 - https://guides.railsgirls.com/devise
 - [devise how-to on adding custom fields](https://gist.github.com/withoutwax/46a05861aa4750384df971b641170407)
 - https://altalogy.com/blog/rails-6-user-accounts-with-3-types-of-roles/
-
+- [betterspecs](https://www.betterspecs.org/)
+- https://thoughtbot.com/blog/how-we-test-rails-applications
